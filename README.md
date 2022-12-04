@@ -22,7 +22,7 @@
 - 📫 Reach me at **kiritiaryal1@gmail.com**
 
 - ⚡ Fun fact **I love hiking and riding cool, fast motorcycles.**
-
+<br/>
 <h2 align="center" style="color:#36BCF7FF">Lets connect:</h2>
 <div align="center">
     <a href="https://linkedin.com/in/kiritiaryal" target="_blank">
@@ -38,6 +38,7 @@
 
 <div style="display:flex;flex-wrap:wrap; gap:10px; justify-content:center;">
     <div>
+    <br/>
         <h2 align="center" style="color:#f2f2f2">Languages and Tools:</h2>
         <h3 align="center" style="color:#f2f2f2">Frontend</h3>
         <div align="center" style="width:60%; margin:auto;">
