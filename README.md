@@ -28,13 +28,13 @@
 <h2 align="center" style="color:#36BCF7FF">Lets connect:</h2>
 <div align="center">
     <a href="https://linkedin.com/in/kiritiaryal" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white  width="60" height="28" alt=linkedin />
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white  width="200" height="80" alt=linkedin />
     </a>
     <a href="https://kiritiaryal.com" target="_blank">
-    <img src=https://i.postimg.cc/htff3xsf/ka-logo.png width="60" height="28" alt=PersonalWebsite />
+    <img src=https://i.postimg.cc/htff3xsf/ka-logo.png width="200" height="80"  alt=PersonalWebsite />
     </a>
      <a href="https://dev.to/kiritiaryal" target="_blank">
-    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white width="60" height="28" alt=devto />
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white width="200" height="80"  alt=devto />
     </a>
 </div>  
 </p>
