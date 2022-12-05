@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=40&pause=100&color=008000&center=true&vCenter=true&width=1100&height=100&lines=Thank+you+for+visiting!;I+hope+you+will+get+a+glimpse+of+my+passion)](https://git.io/typing-svg)
 
 
@@ -23,13 +24,17 @@
 
 - ⚡ Fun fact **I love hiking and riding cool, fast motorcycles.**
 <br/>
+
 <h2 align="center" style="color:#36BCF7FF">Lets connect:</h2>
 <div align="center">
     <a href="https://linkedin.com/in/kiritiaryal" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white  width="60" height="28" alt=linkedin />
     </a>
-    <a href="https://dev.to/kiritiaryal" target="_blank">
-    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto />
+    <a href="https://kiritiaryal.com" target="_blank">
+    <img src=https://i.postimg.cc/htff3xsf/ka-logo.png width="60" height="28" alt=PersonalWebsite />
+    </a>
+     <a href="https://dev.to/kiritiaryal" target="_blank">
+    <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white width="60" height="28" alt=devto />
     </a>
 </div>  
 </p>
