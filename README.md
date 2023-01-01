@@ -74,6 +74,14 @@
 
 <br/>
 <h2 align="center">GitHub Stats</h2> 
+<p>&nbsp</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiritiaryal&layout=compact&theme=default&langs_count=6&hide=html,css,scss,swift)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=KiritiAryal&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KiritiAryal&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sule-ss&theme=chartreuse-dark&layout=compact&hide=jupyter%20notebook" alt="languages" width="50%" > </p>
+
+
+
