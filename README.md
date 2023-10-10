@@ -14,7 +14,7 @@
 
 <h2 align="center">A passionate developer.</h2>
 
-- 🔭 I’m a senior at Texas Tech University
+- 🔭 I’m a recent graduate(May 2023) from Texas Tech University
 
 - 👯 I’m working on a new and improved social media app
 
