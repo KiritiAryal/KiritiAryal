@@ -27,8 +27,8 @@
 
 <h2 align="center" >Lets connect:</h2>
 <div align="center" >
-<a href="https://kiritiaryal.com" target="_blank">
     [![ka-logo.png](https://i.postimg.cc/htff3xsf/ka-logo.png)](https://postimg.cc/181m88LQ)
+<a href="https://kiritiaryal.com" target="_blank">
     <img src=[https://i.postimg.cc/htff3xsf/ka-logo.png](https://i.postimg.cc/htff3xsf/ka-logo.png) width="150" height="70" alt=PersonalWebsite />
     </a>
     <a href="https://linkedin.com/in/kiritiaryal" target="_blank">
