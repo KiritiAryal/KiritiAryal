@@ -11,6 +11,7 @@
 ### Now Playing 🎧
 
 [![Spotify](https://novatorem-du09g4vey.vercel.app//api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn)
+[![ka-logo.png](https://i.postimg.cc/htff3xsf/ka-logo.png)](https://postimg.cc/181m88LQ)
 
 <h2 align="center">A passionate developer.</h2>
 
@@ -27,7 +28,6 @@
 
 <h2 align="center" >Lets connect:</h2>
 <div align="center" >
-    [![ka-logo.png](https://i.postimg.cc/htff3xsf/ka-logo.png)](https://postimg.cc/181m88LQ)
 <a href="https://kiritiaryal.com" target="_blank">
     <img src=[https://i.postimg.cc/htff3xsf/ka-logo.png](https://i.postimg.cc/htff3xsf/ka-logo.png) width="150" height="70" alt=PersonalWebsite />
     </a>
