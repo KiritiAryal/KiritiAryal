@@ -30,10 +30,10 @@
 <a style="text-decoration:none" href="https://kiritiaryal.com" target="_blank">
     <img src="https://i.postimg.cc/htff3xsf/ka-logo.png" width="150" height="70" alt=PersonalWebsite />
     </a>
-    <a href="https://linkedin.com/in/kiritiaryal" target="_blank">
+    <a style="text-decoration:none" href="https://linkedin.com/in/kiritiaryal" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white  width="150" height="70" alt=linkedin />
     </a>
-     <a href="https://dev.to/kiritiaryal" target="_blank">
+     <a style="text-decoration:none" href="https://dev.to/kiritiaryal" target="_blank">
     <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white width="150" height="70"   alt=devto />
     </a>
 </div>  
