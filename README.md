@@ -12,7 +12,7 @@
 
 [![Spotify](https://novatorem-du09g4vey.vercel.app//api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn)
 
-<h2 align="center">A passionate developer.</h2>
+<h2 align="center">A passionate developer</h2>
 
 - 🔭 I’m a recent graduate(May 2023) from Texas Tech University
 
