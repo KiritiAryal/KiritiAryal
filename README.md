@@ -1,7 +1,5 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=40&pause=100&color=008000&center=true&vCenter=true&width=1100&height=100&lines=Thank+you+for+visiting!;I+hope+you+will+get+a+glimpse+of+my+passion)](https://git.io/typing-svg)
-
-
 ### Recently graduated. Computer Science @ Texas Tech University. GO RAIDERS!
 
 
