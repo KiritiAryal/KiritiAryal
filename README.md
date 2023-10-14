@@ -5,8 +5,6 @@
 ### Recently graduated. Computer Science @ Texas Tech University. GO RAIDERS!
 
 
-
-
 ### Now Playing 🎧
 
 [![Spotify](https://novatorem-du09g4vey.vercel.app//api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn)
