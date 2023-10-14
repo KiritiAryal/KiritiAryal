@@ -3,7 +3,6 @@
 
 
 
-
 ### Recently graduated. Computer Science @ Texas Tech University. GO RAIDERS!
 
 
