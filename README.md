@@ -5,7 +5,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://novatorem-du09g4vey.vercel.app//api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX1gRalH1mWrP?si=J_LGLfcsTRaXx6tSrAyV5g)
+[![Spotify](https://novatorem-du09g4vey.vercel.app//api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1jZDM1?si=Vqsf_FlXRi6c3P1IGFkNrg)
 
 <h2 align="center">A passionate developer</h2>
 
